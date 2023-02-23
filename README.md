@@ -11,5 +11,5 @@
 
 
 ![BlockchainHSC GitHub stats](https://github-readme-stats.vercel.app/api?username=BlockChainHSC&theme=radical)
-![BlockchainHSC GitHub stats](https://github-readme-stats.vercel.app/api?username=BlockchainHSC&theme=radical)
+
 
